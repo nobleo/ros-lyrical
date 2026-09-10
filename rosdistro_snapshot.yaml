@@ -2328,9 +2328,9 @@ libphidget22:
   url: https://github.com/ros2-gbp/phidgets_drivers-release.git
   version: 2.4.0
 librealsense2:
-  tag: release/lyrical/librealsense2/2.57.7-7
+  tag: release/lyrical/librealsense2/2.58.4-1
   url: https://github.com/ros2-gbp/librealsense2-release.git
-  version: 2.57.7
+  version: 2.58.4
 libstatistics_collector:
   tag: release/lyrical/libstatistics_collector/2.1.2-1
   url: https://github.com/ros2-gbp/libstatistics_collector-release.git
@@ -3900,17 +3900,17 @@ rcutils:
   url: https://github.com/ros2-gbp/rcutils-release.git
   version: 7.1.1
 realsense2_camera:
-  tag: release/lyrical/realsense2_camera/4.57.7-3
+  tag: release/lyrical/realsense2_camera/4.58.4-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.57.7
+  version: 4.58.4
 realsense2_camera_msgs:
-  tag: release/lyrical/realsense2_camera_msgs/4.57.7-3
+  tag: release/lyrical/realsense2_camera_msgs/4.58.4-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.57.7
+  version: 4.58.4
 realsense2_description:
-  tag: release/lyrical/realsense2_description/4.57.7-3
+  tag: release/lyrical/realsense2_description/4.58.4-1
   url: https://github.com/ros2-gbp/realsense-ros-release.git
-  version: 4.57.7
+  version: 4.58.4
 realtime_tools:
   tag: release/lyrical/realtime_tools/5.2.0-3
   url: https://github.com/ros2-gbp/realtime_tools-release.git
