@@ -93,6 +93,7 @@ libg2o:
 liblz4_vendor:
   additional_cmake_args: "-DAMENT_VENDOR_POLICY=NEVER_VENDOR_IGNORE_SATISFIED_CHECK"
 librealsense2:
+  build_number: 23
   generate_dummy_package_with_run_deps:
     dep_name: librealsense
     max_pin: 'x.x'
