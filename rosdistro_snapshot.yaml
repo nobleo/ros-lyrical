@@ -5992,45 +5992,45 @@ yaml_cpp_vendor:
   url: https://github.com/ros2-gbp/yaml_cpp_vendor-release.git
   version: 9.2.1
 yasmin:
-  tag: release/lyrical/yasmin/5.0.0-3
+  tag: release/lyrical/yasmin/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_cli:
-  tag: release/lyrical/yasmin_cli/5.0.0-3
+  tag: release/lyrical/yasmin_cli/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_demos:
-  tag: release/lyrical/yasmin_demos/5.0.0-3
+  tag: release/lyrical/yasmin_demos/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_editor:
-  tag: release/lyrical/yasmin_editor/5.0.0-3
+  tag: release/lyrical/yasmin_editor/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_factory:
-  tag: release/lyrical/yasmin_factory/5.0.0-3
+  tag: release/lyrical/yasmin_factory/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_msgs:
-  tag: release/lyrical/yasmin_msgs/5.0.0-3
+  tag: release/lyrical/yasmin_msgs/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_pcl:
-  tag: release/lyrical/yasmin_pcl/5.0.0-3
+  tag: release/lyrical/yasmin_pcl/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_plugins_manager:
-  tag: release/lyrical/yasmin_plugins_manager/5.0.0-3
+  tag: release/lyrical/yasmin_plugins_manager/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_ros:
-  tag: release/lyrical/yasmin_ros/5.0.0-3
+  tag: release/lyrical/yasmin_ros/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 yasmin_viewer:
-  tag: release/lyrical/yasmin_viewer/5.0.0-3
+  tag: release/lyrical/yasmin_viewer/6.1.1-1
   url: https://github.com/ros2-gbp/yasmin-release.git
-  version: 5.0.0
+  version: 6.1.1
 zbar_ros:
   tag: release/lyrical/zbar_ros/0.7.0-3
   url: https://github.com/ros2-gbp/zbar_ros-release.git
