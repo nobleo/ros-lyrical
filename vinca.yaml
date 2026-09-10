@@ -203,7 +203,7 @@ packages_select_by_deps:
       - livox_ros_driver2
       - mavros
       - py_binding_tools
-      - realsense2_camera
+      # - realsense2_camera  # Needs newer version of librealsense2?
       - realsense2_description
       - rmf_demos
       - swri_serial_util  # Serial communication only implemented for linux
